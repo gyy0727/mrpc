@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/server.dir/src/server.cc.o CMakeFiles/server.dir/src/socket.cc.o -o /home/muqiu0614/桌面/smallchat/bin/server 

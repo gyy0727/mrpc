@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/muqiu0614/桌面/build",
+  "command": "/usr/bin/g++  -I/home/muqiu0614/桌面/include -g -o CMakeFiles/threadPoolTest.dir/src/Thread.cc.o -c /home/muqiu0614/桌面/src/Thread.cc",
+  "file": "/home/muqiu0614/桌面/src/Thread.cc",
+  "output": "CMakeFiles/threadPoolTest.dir/src/Thread.cc.o"
+},
+{
+  "directory": "/home/muqiu0614/桌面/build",
+  "command": "/usr/bin/g++  -I/home/muqiu0614/桌面/include -g -o CMakeFiles/threadPoolTest.dir/src/ThreadPool.cc.o -c /home/muqiu0614/桌面/src/ThreadPool.cc",
+  "file": "/home/muqiu0614/桌面/src/ThreadPool.cc",
+  "output": "CMakeFiles/threadPoolTest.dir/src/ThreadPool.cc.o"
+},
+{
+  "directory": "/home/muqiu0614/桌面/build",
+  "command": "/usr/bin/g++  -I/home/muqiu0614/桌面/include -g -o CMakeFiles/threadPoolTest.dir/src/main.cc.o -c /home/muqiu0614/桌面/src/main.cc",
+  "file": "/home/muqiu0614/桌面/src/main.cc",
+  "output": "CMakeFiles/threadPoolTest.dir/src/main.cc.o"
+}
+]
